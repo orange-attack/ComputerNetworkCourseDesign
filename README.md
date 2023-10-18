@@ -16,7 +16,7 @@
 
 3. Source code, demonstration video, experiment report, executable program
 ***
-###  山东大学计算机网络课程设计
+###  计算机网络课程设计
 #### 主题
 1. 即时通讯
 2. 文件传输
